@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'ElMessiri-Medium';
+   font-display: swap;
+   src: url('ElMessiri-Medium/font.ttf');
+}
+@font-face {
+   font-family: 'AlHurra Font Bold';
+   font-display: swap;
+   src: url('AlHurra Font Bold/font.ttf');
+}
+@font-face {
+   font-family: 'ElMessiri-Bold';
+   font-display: swap;
+   src: url('ElMessiri-Bold/font.ttf');
+}
